@@ -1,7 +1,6 @@
 
 # Gabriel Melo
 
-👨‍💻 CEO of LGZ Aluguel
 
 ## About me
 
