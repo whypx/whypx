@@ -7,14 +7,14 @@
 <p>★ My name is Gabriel Melo;</p>
 <p>★ I'm finishing a technical curse of technology of information;</p>
 <p>★ I'm a EAJ-UFRN student;</p>
-<p>★ I live in Natal/RN -> Brazil;</p>
+<p>★ I live in São Jose de Mipibu/RN -> Brazil;</p>
 
 
 ## Skills 
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,discord,linux,lua,css,java,arduino,cpp,html,js,postgres" />
+    <img src="https://skillicons.dev/icons?i=git,github,discord,spotfy,instagram,linux,lua,css,java,arduino,cpp,html,js,postgres" />
   </a>
 </p>
 
