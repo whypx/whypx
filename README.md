@@ -1,16 +1,40 @@
-## Hi there 👋
 
-<!--
-**whypx/whypx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Gabriel Melo
 
-Here are some ideas to get you started:
+👨‍💻 CEO of LGZ Aluguel
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About me
+
+<p>My name is Gabriel Melo;</p>
+<p>★ I'm finishing a technical curse of technology of information;</p>
+<p>★ I'm a EAJ-UFRN student;</p>
+<p>★ I live in Natal/RN -> Brazil;</p>
+
+
+## Skills 
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,discord,linux,lua,css,java,arduino,cpp,html,js,postgres" />
+  </a>
+</p>
+
+
+## Tools 
+
+- Cpp
+- Linux
+- Git
+- Github
+- Lua
+- JavaScript
+- Arduino
+- Html
+- Java
+- PostgreSQL
+
+## Social Media
+
+- Instagram  [https://www.instagram.com/gabrielms1347/](https://www.instagram.com/gabrielms1347/)
+
+
