@@ -4,7 +4,7 @@
 
 ## About me
 
-<p>My name is Gabriel Melo;</p>
+<p>★ My name is Gabriel Melo;</p>
 <p>★ I'm finishing a technical curse of technology of information;</p>
 <p>★ I'm a EAJ-UFRN student;</p>
 <p>★ I live in Natal/RN -> Brazil;</p>
