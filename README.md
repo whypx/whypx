@@ -5,7 +5,7 @@
 ## About me
 
 <p>★ My name is Gabriel Melo;</p>
-<p>★ I'm finishing a technical curse of technology of information;</p>
+<p>★ I'm finishing a technical course of technology of information;</p>
 <p>★ I'm a EAJ-UFRN student;</p>
 <p>★ I live in São Jose de Mipibu/RN -> Brazil;</p>
 
