@@ -14,7 +14,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,discord,spotify,instagram,linux,lua,css,java,arduino,cpp,html,js,postgres" />
+    <img src="https://skillicons.dev/icons?i=git,github,spotify,instagram,linux,lua,css,java,arduino,cpp,html,js,postgres,python" />
   </a>
 </p>
 
@@ -31,6 +31,7 @@
 - Html
 - Java
 - PostgreSQL
+- Python
 
 ## Social Media
 
